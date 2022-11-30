@@ -1,0 +1,47 @@
+main{
+    width: 500px;
+    border: 1px solid red;
+    margin: auto;
+    text-align: center;
+    position: relative ;
+}
+body
+{
+    margin: 100px auto;
+}
+.child {
+    border-radius: 10%;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+  }
+.box1
+{
+    position: relative;
+    background-color: antiquewhite;
+  top : 100px ;
+}
+.box2
+{
+    background-color: antiquewhite;
+    position: relative;
+    bottom: 140px;
+
+
+}.box3
+{
+    background-color: rgb(234, 141, 19);
+    position: absolute ;
+    left: 50px ; 
+
+}
+.box4
+{
+    background-color: antiquewhite;
+
+}
+.box5  
+{
+    background-color: antiquewhite;
+
+}
