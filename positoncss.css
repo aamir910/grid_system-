@@ -34,10 +34,16 @@ body
     position: absolute ;
     left: 50px ; 
 
+    z-index : 0; 
+
 }
 .box4
 {
     background-color: antiquewhite;
+
+    position: relative;
+    z-index : 0 ;   /*clear the concept of the z-index */ 
+    opacity: 1 ; 
 
 }
 .box5  
